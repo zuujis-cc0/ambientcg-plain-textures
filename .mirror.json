@@ -1,5 +1,9 @@
 {
- "assets": {},
+ "assets": {
+  "Backdrop007": "4a201550696c7ad8b835a6855288f7fb51a35e1c",
+  "Backdrop008": "19ff35d903d1c511ca9f2572b0a6520bbd8c1cec",
+  "Backdrop009": "302549dc15166260b925e7822798387f89907a55"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
